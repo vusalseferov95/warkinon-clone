@@ -1,0 +1,55 @@
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.color-blue {
+    color: #756BEE;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.inset-0 {
+    inset: 0;
+}
+
+.gap42 {
+    gap: 42px;
+}
+
+.gap90 {
+    gap: 90px;
+}
+
+.pt-160 {
+    padding-top: 160px;
+}
+
+.pl-412 {
+    padding-left: 412px;
+}
+
+.pr-426 {
+    padding-right: 426px;
+}
