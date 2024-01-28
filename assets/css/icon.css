@@ -3,3 +3,15 @@
     height: 28px;
     border-radius: 28px;
 }
+
+.icon-68 {
+    width: 68px;
+    height: 68px;
+    border-radius: 68px;
+    object-fit: cover;
+}
+
+.icon-100 {
+    width: 100px;
+    height: 100px;
+}
